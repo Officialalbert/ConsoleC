@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1750362293 source:d:\проекты кодблокс\consolec\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
+1750362293 source:d:\проекты_кодблокс\consolec\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
