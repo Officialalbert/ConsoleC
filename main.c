@@ -37,7 +37,7 @@ int main() {
         if (a > 100) {
             printf("вхякн анкэье ярю!");
         }
-        if (a == random) {
+        else if (a == random) {
             printf("бш сцюдюкх!!!");
             flag = 1;
         }
